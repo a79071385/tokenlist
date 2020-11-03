@@ -1,0 +1,25 @@
+{
+  "name": "hhaa",
+  "logoURI": "https://s1.ax1x.com/2020/11/03/B6PRKJ.jpg",
+  "keywords": [
+      "defi",
+      "hhaa",
+      "yield"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x46b7ce7833acd56aa3f34b3a88ef4257befdf0e3",
+      "name": "hhaa",
+      "symbol": "hhaa",
+      "decimals": 18,
+      "logoURI": "https://s1.ax1x.com/2020/11/03/B6PRKJ.jpg"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
